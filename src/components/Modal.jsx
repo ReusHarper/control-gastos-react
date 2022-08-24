@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 import Mensaje from "./Mensaje";
-import { formatearFecha, formatearHora } from "../helpers";
 import CerrarBtn from "../img/cerrar.svg";
 
 const Modal = ({ 
